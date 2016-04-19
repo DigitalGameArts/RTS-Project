@@ -24,6 +24,9 @@ editor_metadata = {
 	Layers = [
 		"Default"
 		"Background"
+		"HescoWalls"
+		"SecuirtyFences"
+		"BremerWalls"
 	]
 	LevelObjectSets = {
 		NestedSetNamesBySetName = {
@@ -148,10 +151,10 @@ editor_metadata = {
 				Z = 5
 			}
 			Rot = {
-				W = 0.5
-				X = -0.707106781186547
-				Y = -2.77555756156289E-17
-				Z = 0.5
+				W = -0.322347
+				X = 0.719564
+				Y = 0.0165
+				Z = -0.614856
 			}
 			Scl = {
 				X = 1
@@ -207,6 +210,7 @@ editor_metadata = {
 			Lights = {
 			}
 			Materials = {
+				material = "content/3D-Assets/Environment/Plane_Material"
 			}
 			Name = "plane_primitive"
 			OverridePoses = {
@@ -228,9 +232,9 @@ editor_metadata = {
 				Z = 0
 			}
 			Scl = {
-				X = 15.087738
-				Y = 15.087738
-				Z = 15.087738
+				X = 57.233242
+				Y = 57.233242
+				Z = 57.233242
 			}
 			ScriptData = {
 			}
@@ -255,7 +259,7 @@ editor_metadata = {
 			}
 			Pos = {
 				X = 0.412024
-				Y = 0.866339
+				Y = 12.5844
 				Z = 0.037
 			}
 			Rot = {
@@ -272,6 +276,1856 @@ editor_metadata = {
 			ScriptData = {
 			}
 			Type = "content/3D-Assets/Characters/Test_Character_Assault/char@test"
+		}
+		{
+			Cameras = {
+			}
+			Id = "48d2bab0-4d05-4bbd-9ad9-4583c606f861"
+			Layer = "BremerWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "BremerWall"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -4.055347
+				Y = 4.545108
+				Z = 0.037002
+			}
+			Rot = {
+				W = -0.728094
+				X = 0
+				Y = 0
+				Z = 0.685477
+			}
+			Scl = {
+				X = 0.634704
+				Y = 0.634704
+				Z = 0.634704
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+		}
+		{
+			Cameras = {
+			}
+			Id = "70182841-26c6-4576-b6c4-c9af4d559ebb"
+			Layer = "BremerWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "BremerWall1"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -3.081883
+				Y = 4.597765
+				Z = 0.037002
+			}
+			Rot = {
+				W = -0.728094
+				X = 0
+				Y = 0
+				Z = 0.685477
+			}
+			Scl = {
+				X = 0.634704
+				Y = 0.634704
+				Z = 0.634704
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+		}
+		{
+			Cameras = {
+			}
+			Id = "5c6a7d98-d131-4a84-a0be-e345ae6b71d0"
+			Layer = "Default"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "ResearchTent_LOD0"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -8.027756
+				Y = -8.005672
+				Z = 0.037002
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.523977
+				Y = 0.523977
+				Z = 0.523977
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Research_Tent/ResearchTent_LOD0"
+		}
+		{
+			Cameras = {
+			}
+			Id = "e0107ca1-cee0-405c-a8af-3784846e9c08"
+			Layer = "Default"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "ResearchTent_LOD01"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 8.701038
+				Y = -8.005672
+				Z = 0.037002
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.523977
+				Y = 0.523977
+				Z = 0.523977
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Research_Tent/ResearchTent_LOD0"
+		}
+		{
+			Cameras = {
+			}
+			Id = "cc4078c0-5c02-4587-91b0-f3f99827541e"
+			Layer = "BremerWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "BremerWall2"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 4.856166
+				Y = 5.027445
+				Z = 0.037002
+			}
+			Rot = {
+				W = -0.728094
+				X = 0
+				Y = 0
+				Z = 0.685477
+			}
+			Scl = {
+				X = 0.634704
+				Y = 0.634704
+				Z = 0.634704
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+		}
+		{
+			Cameras = {
+			}
+			Id = "e650bd61-6782-4ba0-b7f0-9e137f73d507"
+			Layer = "BremerWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "BremerWall3"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 3.882701
+				Y = 4.974788
+				Z = 0.037002
+			}
+			Rot = {
+				W = -0.728094
+				X = 0
+				Y = 0
+				Z = 0.685477
+			}
+			Scl = {
+				X = 0.634704
+				Y = 0.634704
+				Z = 0.634704
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+		}
+		{
+			Cameras = {
+			}
+			Id = "3409ca60-c78b-4997-afb5-5e8e4082a1b5"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 7.487908
+				Y = 7.519238
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "4198760d-c2d5-4b11-b049-e7cf10ba2021"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy1"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 9.71277
+				Y = 7.509766
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "fd5657ef-16f3-4f48-b9fc-2bdd2d01c4b6"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy2"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 14.165949
+				Y = 7.509766
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "697a739b-b3d7-4891-af06-562a6111a1d6"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy3"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 11.941088
+				Y = 7.519238
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "12de7c0b-679b-47e5-bb2b-de02f4a90a7c"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy4"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -5.600575
+				Y = 7.509766
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "9191a31a-abe3-46fc-a383-f39ce3790c0b"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy5"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -7.825437
+				Y = 7.519238
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "5386b24d-1840-4e7f-b509-f6be795213f6"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy6"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -12.278615
+				Y = 7.519238
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "f415d3e6-b756-47af-929e-d37da3bd0a1d"
+			Layer = "SecuirtyFences"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "SecuirtyFence_Heavy7"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -10.053754
+				Y = 7.509766
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 0.36934
+				Y = 0.36934
+				Z = 0.36934
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+		}
+		{
+			Cameras = {
+			}
+			Id = "1a43cbda-9bda-49fc-a3df-861eae9fc7a0"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -13.936504
+				Y = 7.730967
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "af0056d9-fe0e-41f2-9229-5c43a42fd077"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand1"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -14.540297
+				Y = 7.730967
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "70f864b1-396f-4803-a7fa-399d45f19fe3"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand2"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -15.768643
+				Y = 7.730967
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "6206bc14-680f-45e1-b589-2673cb475076"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand3"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -15.164851
+				Y = 7.730967
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "e99ddef5-9495-4ce0-b07f-f286e87e5e95"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand4"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -17.017857
+				Y = 7.730967
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "dd996c0e-08f3-49cb-bc2d-49ddbef0bb76"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand5"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -16.414066
+				Y = 7.730967
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "4c76a80d-64b2-47de-82ad-ee99a653b82e"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand6"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -17.017857
+				Y = 7.093151
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "93adbeb5-058b-4a87-a23f-2325694d41dd"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand7"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -16.414066
+				Y = 7.093151
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "39927f02-263b-465a-921d-c1c0badbef3a"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand8"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -13.936504
+				Y = 7.093151
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "21f68c83-f495-407f-8eeb-21966d7c387d"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand9"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -14.540297
+				Y = 7.093151
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "a9119052-0065-4c68-a69c-9dc0bbe00b3a"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand10"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -15.164852
+				Y = 7.093151
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "81932ce0-5cfa-45f9-a032-9d6a08387935"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand11"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -15.768643
+				Y = 7.093151
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "693fc9ea-da99-46f0-a1f6-69c1b6de7845"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand12"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -17.017857
+				Y = 7.720427
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "b3131801-cad0-4a64-9f26-27db11b9c605"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand13"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -16.414066
+				Y = 7.720427
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "34b9aba3-def0-4bb5-8cc6-f2eb67f0edbf"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand14"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -13.936504
+				Y = 7.720427
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "c5431ca8-e6da-42d0-8d40-1e9748fea1b8"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand15"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -14.540297
+				Y = 7.720427
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "fec9ab48-070f-4ebe-8306-1f9657ae1455"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand16"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -15.164851
+				Y = 7.720427
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "2daf6d58-41ec-454a-8e0a-a7a72b96f236"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand17"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = -15.768643
+				Y = 7.720427
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "c30a7899-3039-41cf-8765-3e4b6b1081f7"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand18"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 18.302631
+				Y = 7.732622
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "edba217d-48b3-493f-8a1b-28d236767901"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand19"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 17.698839
+				Y = 7.732622
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "3ec89522-16b0-4e6a-b1b9-be6cf1542106"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand20"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 17.074284
+				Y = 7.094807
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "76c6d916-1c9a-44e8-8650-636a6abb9cfa"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand21"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 16.470493
+				Y = 7.094807
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "6a7b901c-3107-49cd-bb3e-a949df8ce4e5"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand22"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 15.221279
+				Y = 7.722082
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "4b26c1bd-f464-4539-bc67-fee389dc1fa7"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand23"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 15.825069
+				Y = 7.722082
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "91dd84b7-4a97-489b-bc26-e86720ed943d"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand24"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 18.302631
+				Y = 7.722082
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "99995629-a35a-4a4a-95a1-998d6e305d86"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand25"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 17.698839
+				Y = 7.722082
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "cabe8ce1-8504-4f8f-9084-04d37811adec"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand26"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 17.074284
+				Y = 7.722082
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "e1ca3aa1-3a0e-471c-8b99-a817a94dc28b"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand27"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 16.470493
+				Y = 7.722082
+				Z = 0.641238
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "fa832cae-a03d-47e5-935e-5a8b944f2a5a"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand28"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 16.470493
+				Y = 7.732622
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "e596e29e-f86f-4681-b9ec-02615bdc6249"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand29"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 17.074284
+				Y = 7.732622
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "bcde7b49-c002-499a-ab4d-3df1d8917677"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand30"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 15.221279
+				Y = 7.732622
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "eecda5cd-4551-4c7a-ae92-b5c900cc7652"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand31"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 15.825069
+				Y = 7.732622
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "055ebef5-49ba-4463-9ce3-923bbc99a4f1"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand32"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 15.221279
+				Y = 7.094807
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "95ec77dc-b90a-4e51-9f5b-14ae550e283c"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand33"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 15.825069
+				Y = 7.094807
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "a3b4553a-7609-4dba-a012-0420656c5c46"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand34"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 18.302631
+				Y = 7.094807
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+		}
+		{
+			Cameras = {
+			}
+			Id = "b63ae3e4-43b1-4591-8f81-9d9fb6849fea"
+			Layer = "HescoWalls"
+			Lights = {
+			}
+			Materials = {
+			}
+			Name = "hesco_sand35"
+			OverridePoses = {
+			}
+			Pivot = {
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Pos = {
+				X = 17.698839
+				Y = 7.094807
+				Z = 0.037001
+			}
+			Rot = {
+				W = -1
+				X = 0
+				Y = 0
+				Z = 0
+			}
+			Scl = {
+				X = 1.100016
+				Y = 1.100016
+				Z = 1.100016
+			}
+			ScriptData = {
+			}
+			Type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
 		}
 	]
 	Volumes = [
@@ -362,10 +2216,10 @@ units = [
 			5
 		]
 		rot = [
-			-0.707106781186547
-			-2.77555756156289E-17
-			0.5
-			0.5
+			0.719564
+			0.0165
+			-0.614856
+			-0.322347
 		]
 		scl = [
 			1
@@ -414,6 +2268,7 @@ units = [
 		}
 		material = ""
 		materials = {
+			material = "content/3D-Assets/Environment/Plane_Material"
 		}
 		name = "plane_primitive"
 		pos = [
@@ -428,9 +2283,9 @@ units = [
 			-1
 		]
 		scl = [
-			15.087738
-			15.087738
-			15.087738
+			57.233242
+			57.233242
+			57.233242
 		]
 		type = "core/units/primitives/plane_primitive"
 	}
@@ -448,7 +2303,7 @@ units = [
 		name = "char@test"
 		pos = [
 			0.412024
-			0.866339
+			12.5844
 			0.037
 		]
 		rot = [
@@ -463,6 +2318,1506 @@ units = [
 			1
 		]
 		type = "content/3D-Assets/Characters/Test_Character_Assault/char@test"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "48d2bab0-4d05-4bbd-9ad9-4583c606f861"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "BremerWall"
+		pos = [
+			-4.055347
+			4.545108
+			0.037002
+		]
+		rot = [
+			0
+			0
+			0.685477
+			-0.728094
+		]
+		scl = [
+			0.634704
+			0.634704
+			0.634704
+		]
+		type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "70182841-26c6-4576-b6c4-c9af4d559ebb"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "BremerWall1"
+		pos = [
+			-3.081883
+			4.597765
+			0.037002
+		]
+		rot = [
+			0
+			0
+			0.685477
+			-0.728094
+		]
+		scl = [
+			0.634704
+			0.634704
+			0.634704
+		]
+		type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "5c6a7d98-d131-4a84-a0be-e345ae6b71d0"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "ResearchTent_LOD0"
+		pos = [
+			-8.027756
+			-8.005672
+			0.037002
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.523977
+			0.523977
+			0.523977
+		]
+		type = "content/3D-Assets/Environment/Props/Research_Tent/ResearchTent_LOD0"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "e0107ca1-cee0-405c-a8af-3784846e9c08"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "ResearchTent_LOD01"
+		pos = [
+			8.701038
+			-8.005672
+			0.037002
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.523977
+			0.523977
+			0.523977
+		]
+		type = "content/3D-Assets/Environment/Props/Research_Tent/ResearchTent_LOD0"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "cc4078c0-5c02-4587-91b0-f3f99827541e"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "BremerWall2"
+		pos = [
+			4.856166
+			5.027445
+			0.037002
+		]
+		rot = [
+			0
+			0
+			0.685477
+			-0.728094
+		]
+		scl = [
+			0.634704
+			0.634704
+			0.634704
+		]
+		type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "e650bd61-6782-4ba0-b7f0-9e137f73d507"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "BremerWall3"
+		pos = [
+			3.882701
+			4.974788
+			0.037002
+		]
+		rot = [
+			0
+			0
+			0.685477
+			-0.728094
+		]
+		scl = [
+			0.634704
+			0.634704
+			0.634704
+		]
+		type = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "3409ca60-c78b-4997-afb5-5e8e4082a1b5"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy"
+		pos = [
+			7.487908
+			7.519238
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "4198760d-c2d5-4b11-b049-e7cf10ba2021"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy1"
+		pos = [
+			9.71277
+			7.509766
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "fd5657ef-16f3-4f48-b9fc-2bdd2d01c4b6"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy2"
+		pos = [
+			14.165949
+			7.509766
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "697a739b-b3d7-4891-af06-562a6111a1d6"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy3"
+		pos = [
+			11.941088
+			7.519238
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "12de7c0b-679b-47e5-bb2b-de02f4a90a7c"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy4"
+		pos = [
+			-5.600575
+			7.509766
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "9191a31a-abe3-46fc-a383-f39ce3790c0b"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy5"
+		pos = [
+			-7.825437
+			7.519238
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "5386b24d-1840-4e7f-b509-f6be795213f6"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy6"
+		pos = [
+			-12.278615
+			7.519238
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "f415d3e6-b756-47af-929e-d37da3bd0a1d"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "SecuirtyFence_Heavy7"
+		pos = [
+			-10.053754
+			7.509766
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			0.36934
+			0.36934
+			0.36934
+		]
+		type = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "1a43cbda-9bda-49fc-a3df-861eae9fc7a0"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand"
+		pos = [
+			-13.936504
+			7.730967
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "af0056d9-fe0e-41f2-9229-5c43a42fd077"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand1"
+		pos = [
+			-14.540297
+			7.730967
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "70f864b1-396f-4803-a7fa-399d45f19fe3"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand2"
+		pos = [
+			-15.768643
+			7.730967
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "6206bc14-680f-45e1-b589-2673cb475076"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand3"
+		pos = [
+			-15.164851
+			7.730967
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "e99ddef5-9495-4ce0-b07f-f286e87e5e95"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand4"
+		pos = [
+			-17.017857
+			7.730967
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "dd996c0e-08f3-49cb-bc2d-49ddbef0bb76"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand5"
+		pos = [
+			-16.414066
+			7.730967
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "4c76a80d-64b2-47de-82ad-ee99a653b82e"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand6"
+		pos = [
+			-17.017857
+			7.093151
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "93adbeb5-058b-4a87-a23f-2325694d41dd"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand7"
+		pos = [
+			-16.414066
+			7.093151
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "39927f02-263b-465a-921d-c1c0badbef3a"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand8"
+		pos = [
+			-13.936504
+			7.093151
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "21f68c83-f495-407f-8eeb-21966d7c387d"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand9"
+		pos = [
+			-14.540297
+			7.093151
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "a9119052-0065-4c68-a69c-9dc0bbe00b3a"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand10"
+		pos = [
+			-15.164852
+			7.093151
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "81932ce0-5cfa-45f9-a032-9d6a08387935"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand11"
+		pos = [
+			-15.768643
+			7.093151
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "693fc9ea-da99-46f0-a1f6-69c1b6de7845"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand12"
+		pos = [
+			-17.017857
+			7.720427
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "b3131801-cad0-4a64-9f26-27db11b9c605"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand13"
+		pos = [
+			-16.414066
+			7.720427
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "34b9aba3-def0-4bb5-8cc6-f2eb67f0edbf"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand14"
+		pos = [
+			-13.936504
+			7.720427
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "c5431ca8-e6da-42d0-8d40-1e9748fea1b8"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand15"
+		pos = [
+			-14.540297
+			7.720427
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "fec9ab48-070f-4ebe-8306-1f9657ae1455"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand16"
+		pos = [
+			-15.164851
+			7.720427
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "2daf6d58-41ec-454a-8e0a-a7a72b96f236"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand17"
+		pos = [
+			-15.768643
+			7.720427
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "c30a7899-3039-41cf-8765-3e4b6b1081f7"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand18"
+		pos = [
+			18.302631
+			7.732622
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "edba217d-48b3-493f-8a1b-28d236767901"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand19"
+		pos = [
+			17.698839
+			7.732622
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "3ec89522-16b0-4e6a-b1b9-be6cf1542106"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand20"
+		pos = [
+			17.074284
+			7.094807
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "76c6d916-1c9a-44e8-8650-636a6abb9cfa"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand21"
+		pos = [
+			16.470493
+			7.094807
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "6a7b901c-3107-49cd-bb3e-a949df8ce4e5"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand22"
+		pos = [
+			15.221279
+			7.722082
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "4b26c1bd-f464-4539-bc67-fee389dc1fa7"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand23"
+		pos = [
+			15.825069
+			7.722082
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "91dd84b7-4a97-489b-bc26-e86720ed943d"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand24"
+		pos = [
+			18.302631
+			7.722082
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "99995629-a35a-4a4a-95a1-998d6e305d86"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand25"
+		pos = [
+			17.698839
+			7.722082
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "cabe8ce1-8504-4f8f-9084-04d37811adec"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand26"
+		pos = [
+			17.074284
+			7.722082
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "e1ca3aa1-3a0e-471c-8b99-a817a94dc28b"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand27"
+		pos = [
+			16.470493
+			7.722082
+			0.641238
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "fa832cae-a03d-47e5-935e-5a8b944f2a5a"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand28"
+		pos = [
+			16.470493
+			7.732622
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "e596e29e-f86f-4681-b9ec-02615bdc6249"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand29"
+		pos = [
+			17.074284
+			7.732622
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "bcde7b49-c002-499a-ab4d-3df1d8917677"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand30"
+		pos = [
+			15.221279
+			7.732622
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "eecda5cd-4551-4c7a-ae92-b5c900cc7652"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand31"
+		pos = [
+			15.825069
+			7.732622
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "055ebef5-49ba-4463-9ce3-923bbc99a4f1"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand32"
+		pos = [
+			15.221279
+			7.094807
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "95ec77dc-b90a-4e51-9f5b-14ae550e283c"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand33"
+		pos = [
+			15.825069
+			7.094807
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "a3b4553a-7609-4dba-a012-0420656c5c46"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand34"
+		pos = [
+			18.302631
+			7.094807
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+	}
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "b63ae3e4-43b1-4591-8f81-9d9fb6849fea"
+		lights = {
+		}
+		material = ""
+		materials = {
+		}
+		name = "hesco_sand35"
+		pos = [
+			17.698839
+			7.094807
+			0.037001
+		]
+		rot = [
+			0
+			0
+			0
+			-1
+		]
+		scl = [
+			1.100016
+			1.100016
+			1.100016
+		]
+		type = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
 	}
 ]
 volumes = [

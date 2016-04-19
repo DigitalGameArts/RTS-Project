@@ -1,0 +1,20 @@
+
+_data_root_version = 1
+_id = "5df1ab73-7936-4a71-a513-37d988a6aeba"
+_name = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"
+anim_controller_ref = {
+	_id = "bf39b984-ab93-497c-8b8d-5a6d86369606"
+	ref_filename = null
+	ref_id = null
+}
+anim_skeleton_ref = {
+	_id = "f29ed141-1450-4931-8e0f-e4e4d4223211"
+	ref_filename = null
+	ref_id = null
+}
+dcc_asset_ref = {
+	_id = "ab7425f3-3685-49c0-bc18-d95f4b577fd5"
+	ref_filename = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy.dcc_asset"
+	ref_id = null
+}
+old_unit_name = "content/3D-Assets/Environment/Props/Street_Barricade/SecuirtyFence_Heavy"

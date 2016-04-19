@@ -1,0 +1,24 @@
+
+materials = {
+	"02 - Default" = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall_MAT"
+}
+renderables = {
+	BremerWall_Body = {
+		always_keep = false
+		culling = "bounding_volume"
+		light_baking = "none"
+		occluder = false
+		shadow_caster = true
+		surface_queries = false
+		viewport_visible = true
+	}
+	BremerWall_IronCage = {
+		always_keep = false
+		culling = "bounding_volume"
+		light_baking = "none"
+		occluder = false
+		shadow_caster = true
+		surface_queries = false
+		viewport_visible = true
+	}
+}

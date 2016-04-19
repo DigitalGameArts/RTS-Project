@@ -1,0 +1,20 @@
+
+_data_root_version = 1
+_id = "99a257ad-bb19-4599-951a-fb0db9c944cb"
+_name = "content/3D-Assets/Environment/Props/Research_Tent/ResearchTent_LOD0"
+anim_controller_ref = {
+	_id = "e102359e-aa28-4192-866e-af9cfa9cbe1a"
+	ref_filename = null
+	ref_id = null
+}
+anim_skeleton_ref = {
+	_id = "19a70c87-5c5d-4981-8cb3-bccbd52e1396"
+	ref_filename = null
+	ref_id = null
+}
+dcc_asset_ref = {
+	_id = "d2e77a70-a060-49b8-b32b-2f0c6aff1d6c"
+	ref_filename = "content/3D-Assets/Environment/Props/Research_Tent/ResearchTent_LOD0.dcc_asset"
+	ref_id = null
+}
+old_unit_name = "content/3D-Assets/Environment/Props/Research_Tent/ResearchTent_LOD0"

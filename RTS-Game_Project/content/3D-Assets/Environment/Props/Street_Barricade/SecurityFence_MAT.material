@@ -1,0 +1,38 @@
+
+parent_material = "core/stingray_renderer/shader_import/standard"
+textures = {
+	color_map = "content/3D-Assets/Environment/Props/Street_Barricade/textures/SecuirtFence_Heavy_Albedo"
+	metallic_map = "content/3D-Assets/Environment/Props/Street_Barricade/textures/SecuirtFence_Heavy_Spec"
+	normal_map = "content/3D-Assets/Environment/Props/Street_Barricade/textures/SecuirtFence_Heavy_Normal"
+	roughness_map = "content/3D-Assets/Environment/Props/Street_Barricade/textures/SecuirtFence_Heavy_R"
+}
+variables = {
+	base_color = {
+		type = "vector3"
+		value = [
+			0.5
+			0.5
+			0.5
+		]
+	}
+	roughness = {
+		type = "scalar"
+		value = 0.5
+	}
+	use_color_map = {
+		type = "scalar"
+		value = 1
+	}
+	use_metallic_map = {
+		type = "scalar"
+		value = 1
+	}
+	use_normal_map = {
+		type = "scalar"
+		value = 1
+	}
+	use_roughness_map = {
+		type = "scalar"
+		value = 1
+	}
+}

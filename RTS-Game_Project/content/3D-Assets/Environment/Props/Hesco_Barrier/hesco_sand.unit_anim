@@ -1,0 +1,20 @@
+
+_data_root_version = 1
+_id = "cae9ae79-38f5-4cc2-9dac-05e10db4fc9b"
+_name = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"
+anim_controller_ref = {
+	_id = "7765921e-841f-4f9f-99e4-e0a94ed6deff"
+	ref_filename = null
+	ref_id = null
+}
+anim_skeleton_ref = {
+	_id = "afd7d4db-dfd6-418d-8702-eff83822a01c"
+	ref_filename = null
+	ref_id = null
+}
+dcc_asset_ref = {
+	_id = "7054a287-3881-4175-b492-32d8eaaeb349"
+	ref_filename = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand.dcc_asset"
+	ref_id = null
+}
+old_unit_name = "content/3D-Assets/Environment/Props/Hesco_Barrier/hesco_sand"

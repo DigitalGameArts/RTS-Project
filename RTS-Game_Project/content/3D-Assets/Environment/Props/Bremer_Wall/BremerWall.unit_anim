@@ -1,0 +1,20 @@
+
+_data_root_version = 1
+_id = "5c3608c2-d0a1-4991-9028-d9bc04d2e8ad"
+_name = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
+anim_controller_ref = {
+	_id = "986da7d5-dc69-4103-bad0-f0c969d503a0"
+	ref_filename = null
+	ref_id = null
+}
+anim_skeleton_ref = {
+	_id = "a07724c7-2649-4d30-9f96-d380f7ea39e0"
+	ref_filename = null
+	ref_id = null
+}
+dcc_asset_ref = {
+	_id = "1c008d88-57e8-4dab-81d6-212bb2ffc055"
+	ref_filename = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall.dcc_asset"
+	ref_id = null
+}
+old_unit_name = "content/3D-Assets/Environment/Props/Bremer_Wall/BremerWall"
