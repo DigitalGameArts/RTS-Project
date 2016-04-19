@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "0b3321fb-8162-4281-bd91-7a7aa7434e4c"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Prone/char@ProneBackwards"
+anim_skeleton_ref = {
+	_id = "cbecdc2e-b0ee-488c-addf-390c0ede2796"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "f6164990-7f15-4a53-9d4a-733aba7bcd21"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "7071e222-f150-497c-a4e0-c3b081215f52"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "aad6941d-72e3-4cd8-a803-08d6696211b0"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/char@ProneBackwards.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "7cad6610-52c3-4867-9ddf-5ca048826c61"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

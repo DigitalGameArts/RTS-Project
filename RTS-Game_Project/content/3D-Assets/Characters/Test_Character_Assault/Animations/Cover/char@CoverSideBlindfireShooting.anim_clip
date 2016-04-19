@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "ca98a773-c59b-4e6c-92a7-f7e0460f7dc8"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Cover/char@CoverSideBlindfireShooting"
+anim_skeleton_ref = {
+	_id = "71174a06-d624-4d2f-a14e-b10beebd3c3a"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "23a467d0-5699-41bb-9ea1-4bfebb2fb598"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "76d50690-4096-452e-a48a-ab5fd86e24af"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "80710f7e-ff61-421f-aa40-523bf9240e95"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Cover/char@CoverSideBlindfireShooting.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "360a5715-af73-41e6-a165-3575be271856"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

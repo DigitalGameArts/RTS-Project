@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "05f117e9-92df-4bd6-a4e2-bcbd32b452dc"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Prone/char@ProneIdleBreathing"
+anim_skeleton_ref = {
+	_id = "fb192794-b3f9-434d-a1b3-0cb462730acf"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "c6a51796-8ade-44a7-aff9-0f682d23cab7"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "a345ab33-f48b-476c-a75e-c668a6df7a26"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "5d373d6a-523a-44b0-9711-9505b0df0ad6"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/char@ProneIdleBreathing.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "694e81a5-ab44-41d1-a442-b8b31fcd0ecf"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

@@ -1,0 +1,49 @@
+
+parent_material = "core/stingray_renderer/shader_import/standard"
+textures = {
+	color_map = "content/3D-Assets/Characters/Test_Character_Assault/Textures/Bags_Universal/BagsUniversal_A"
+	normal_map = "content/3D-Assets/Characters/Test_Character_Assault/Textures/Bags_Universal/BagsUniversal_N"
+	roughness_map = null
+}
+variables = {
+	base_color = {
+		type = "vector3"
+		value = [
+			0.8980393
+			0.6509804
+			0.8431373
+		]
+	}
+	emissive = {
+		type = "vector3"
+		value = [
+			0
+			0
+			0
+		]
+	}
+	metallic = {
+		type = "scalar"
+		value = 0.184734013073068
+	}
+	roughness = {
+		type = "scalar"
+		value = 1
+	}
+	use_color_map = {
+		type = "scalar"
+		value = 1
+	}
+	use_emissive_map = {
+		type = "scalar"
+		value = 1
+	}
+	use_normal_map = {
+		type = "scalar"
+		value = 1
+	}
+	use_roughness_map = {
+		type = "scalar"
+		value = 0
+	}
+}

@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "fddaedda-5c98-48da-82b0-a5e9ccec6716"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Standing/char@idlebreathing"
+anim_skeleton_ref = {
+	_id = "6b7f49cb-70bc-4792-8093-3c9607ee0dcc"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "772f3d0b-d40a-4966-8182-82087a3d84f0"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "a5c4f7c6-d607-4590-8eda-35685a33944a"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "43433ea0-0fad-4e08-87d9-c17ca2a85bfb"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/char@idlebreathing.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "15fb752b-3cc5-40fb-9c24-4414c1df8f3b"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

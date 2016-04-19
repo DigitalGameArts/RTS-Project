@@ -1,7 +1,0 @@
-
-banks = [
-	"content/audio/default"
-]
-metadata = "content/audio/project"
-streams = [
-]

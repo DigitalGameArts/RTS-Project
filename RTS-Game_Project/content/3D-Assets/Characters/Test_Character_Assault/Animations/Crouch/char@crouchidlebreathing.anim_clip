@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "b1987368-b807-4f3c-966c-2eb8047c64d0"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Crouch/char@crouchidlebreathing"
+anim_skeleton_ref = {
+	_id = "93e3ebe6-a008-40d2-a29d-8fbb3ac2b9c9"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "984f4470-9628-4d8b-8498-a85319cdc48f"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "c014bf7e-9a80-4a49-a6ac-85a74a818529"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "99f46d3d-1afb-4b19-9a64-06d2f2bede30"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/char@crouchidlebreathing.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "dda4e425-057d-4319-9236-f4d174c6b03d"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "9a5063a1-9a4d-4844-aea9-473b10c5e61a"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Crouch/char@crouchtoprone"
+anim_skeleton_ref = {
+	_id = "335f4b25-25e6-4b77-a5d1-eab943306cc0"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "1278c37b-0097-46af-bfb2-872539407083"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "647ee067-621f-4fc4-910b-05d30f42a679"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "6498b4e5-b513-4303-a417-ff7621924a15"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/char@crouchtoprone.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "6928e8eb-e62f-4b6e-add9-8bc1481646c9"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "ddb7016f-2a72-4ddc-99d2-8b9ca3d81060"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Standing/char@jogright"
+anim_skeleton_ref = {
+	_id = "6a52cc91-a82b-4463-affe-1befdbcb7435"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "1b1216b9-672f-49f7-abf2-4c9605476ecd"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "a99717ea-4d9f-46b6-b05d-bfcffbf6d9ea"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "4422d8ac-d847-4e5b-85f6-a2ce476256f5"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/char@jogright.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "7f6e6927-eedc-407f-a52d-fcdcea341ea4"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

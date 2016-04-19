@@ -1,0 +1,409 @@
+
+_data_root_version = 1
+_id = "1d4d3cc2-f4c3-419b-928d-d5d608097673"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/char@test"
+anim_blend_sets = [
+]
+anim_bones = [
+	{
+		_id = "14b68dd4-7dd9-4523-b09f-22cdc0690211"
+		_name = "StingrayEntityRoot"
+		lod_level = 5
+	}
+	{
+		_id = "304cf70b-f23c-45c6-93be-a463374568a2"
+		_name = "FbxAxisSystem_ConvertNode"
+		lod_level = 5
+	}
+	{
+		_id = "419f3d28-e66e-459b-8b7e-6e6698e665a2"
+		_name = "Soldier_ PelvisBone01"
+		lod_level = 5
+	}
+	{
+		_id = "d34436b9-df3b-4518-8d52-8391053633d0"
+		_name = "Base_Pants001"
+		lod_level = 5
+	}
+	{
+		_id = "dc48fb4b-ccba-4ab2-8f6a-014a40fca4c4"
+		_name = "Assault_Head001"
+		lod_level = 5
+	}
+	{
+		_id = "ee919d93-0d47-4919-ab61-66a4591a2b6b"
+		_name = "Assault_Vest001"
+		lod_level = 5
+	}
+	{
+		_id = "5848c187-a0d4-4682-bd70-18ea9176dcd0"
+		_name = "Assault_Equipment001"
+		lod_level = 5
+	}
+	{
+		_id = "855609ca-9011-421d-b3a4-d11f794d9d5c"
+		_name = "Base_Arms_Right001"
+		lod_level = 5
+	}
+	{
+		_id = "95e25c40-ec7b-4e6b-8847-25f3e4b8b757"
+		_name = "Hands_TPV_Right001"
+		lod_level = 5
+	}
+	{
+		_id = "9303c98e-9a0c-42cb-8256-26e2149086b7"
+		_name = "Base_Arms_Left001"
+		lod_level = 5
+	}
+	{
+		_id = "df596af4-83d7-40dc-aeda-434a416173ea"
+		_name = "Hands_TPV_Left001"
+		lod_level = 5
+	}
+	{
+		_id = "713ef5b4-481b-4862-9beb-0de515b335e2"
+		_name = "Base_Jacket001"
+		lod_level = 5
+	}
+	{
+		_id = "3e153859-203d-452f-ac2f-0fadea61e6fa"
+		_name = "HeadCameraHelper"
+		lod_level = 5
+	}
+	{
+		_id = "6b7b41bf-b67c-4a18-bcb0-02f7d47d0379"
+		_name = "Gun Bone"
+		lod_level = 5
+	}
+	{
+		_id = "6880818f-a4f9-4262-8b04-a492bf133ede"
+		_name = "Soldier_ Pelvis"
+		lod_level = 5
+	}
+	{
+		_id = "1f42f2e5-5f3a-47be-a4cb-6b1e3c150fc9"
+		_name = "SI_417_bolt_slide"
+		lod_level = 5
+	}
+	{
+		_id = "e6880c2c-99e9-4394-95df-7c3a5e015bd2"
+		_name = "SI_417_IS_Base_Far001"
+		lod_level = 5
+	}
+	{
+		_id = "7a0e06e1-23af-46ea-8822-54f1d8242420"
+		_name = "SI_417_Magazine"
+		lod_level = 5
+	}
+	{
+		_id = "42ad6508-b118-433f-98f0-d20fd6c7622b"
+		_name = "SI_417_Charging_Handle_Main"
+		lod_level = 5
+	}
+	{
+		_id = "a44fd5d7-12e5-468e-aec8-535f6da2f24e"
+		_name = "SI_417_Charging_Handle_Release"
+		lod_level = 5
+	}
+	{
+		_id = "c2a4332d-6f75-434a-8008-ea2616d6655c"
+		_name = "SI_417_Bullet"
+		lod_level = 5
+	}
+	{
+		_id = "633eb8dc-46fe-4279-a3ed-05d9a5415481"
+		_name = "SI_417_Main"
+		lod_level = 5
+	}
+	{
+		_id = "040deb8a-bd41-4c55-94bd-416190851c75"
+		_name = "SI_417_IS_Sight_Back"
+		lod_level = 5
+	}
+	{
+		_id = "7b294937-2c6e-444c-a07f-86860e7279ce"
+		_name = "SI_417_IS_Sight_Front"
+		lod_level = 5
+	}
+	{
+		_id = "fba0c45a-b1db-42ee-95d9-5985ccd8fb01"
+		_name = "SI_417_IS_Base_Far"
+		lod_level = 5
+	}
+	{
+		_id = "e2506d91-db25-474e-ae11-adcbe8a1618f"
+		_name = "Soldier_ Spine1"
+		lod_level = 5
+	}
+	{
+		_id = "436d2ae3-4154-48c8-9b6e-7eeee308a672"
+		_name = "Soldier_ L Thigh"
+		lod_level = 5
+	}
+	{
+		_id = "ab1f44f7-09ab-45a7-97ec-4c390af1b2d4"
+		_name = "Soldier_ R Thigh"
+		lod_level = 5
+	}
+	{
+		_id = "d15246b0-68be-4018-942c-ecbc5796da04"
+		_name = "Soldier_ Spine2"
+		lod_level = 5
+	}
+	{
+		_id = "cea9a61c-4a8a-47b3-b167-b11244d16265"
+		_name = "Soldier_ L Calf"
+		lod_level = 5
+	}
+	{
+		_id = "3a028140-5ff9-4112-b195-02f554a85bd9"
+		_name = "Soldier_ R Calf"
+		lod_level = 5
+	}
+	{
+		_id = "b7f149ef-01d6-42a1-92ff-97589ffaecf1"
+		_name = "Soldier_Ribcage"
+		lod_level = 5
+	}
+	{
+		_id = "1a4d8e7b-e19f-4c41-9e68-c3e4e666a977"
+		_name = "Soldier_ L Foot"
+		lod_level = 5
+	}
+	{
+		_id = "33e7566e-5d9b-4827-8507-6eaa1c8f297c"
+		_name = "Soldier_ R Foot"
+		lod_level = 5
+	}
+	{
+		_id = "1cc23c54-4790-41d4-9114-88b0958e23ad"
+		_name = "Soldier_ L Clavicle"
+		lod_level = 5
+	}
+	{
+		_id = "bfc9db59-7e7f-43ef-a119-bf9bc761dfd6"
+		_name = "Soldier_ R Clavicle"
+		lod_level = 5
+	}
+	{
+		_id = "16e87ef3-643d-429c-a90c-30bf8acad856"
+		_name = "Soldier_ Neck"
+		lod_level = 5
+	}
+	{
+		_id = "8a9b4a51-6491-4b60-a599-796e088dafb4"
+		_name = "Soldier_ L Toe0"
+		lod_level = 5
+	}
+	{
+		_id = "13eb7538-1635-4b4d-86f0-a05332a9a0f1"
+		_name = "Soldier_ R Toe0"
+		lod_level = 5
+	}
+	{
+		_id = "f7446f5d-ecc2-4d06-b2a1-496448646621"
+		_name = "Soldier_ L UpperArm"
+		lod_level = 5
+	}
+	{
+		_id = "9b1cb942-fb98-421e-872f-8bbf1e54d0db"
+		_name = "Soldier_ R UpperArm"
+		lod_level = 5
+	}
+	{
+		_id = "9e4f5340-f58b-45c6-b3ba-2242056c0547"
+		_name = "Soldier_Head"
+		lod_level = 5
+	}
+	{
+		_id = "bb06c6e3-0fd5-4d64-a5e2-496fed497245"
+		_name = "Soldier_ L Forearm1"
+		lod_level = 5
+	}
+	{
+		_id = "13123b1e-5be6-46c4-be1d-4a9f6cb81d8e"
+		_name = "Soldier_ R Forearm1"
+		lod_level = 5
+	}
+	{
+		_id = "ff0c919c-0b65-4285-a862-34e8d7c3d77d"
+		_name = "Soldier_ L Forearm2"
+		lod_level = 5
+	}
+	{
+		_id = "346ca04f-7a0c-427d-881b-45067e998349"
+		_name = "Soldier_ R Forearm2"
+		lod_level = 5
+	}
+	{
+		_id = "84ada676-d5b7-4c30-a400-5be90ceedd2f"
+		_name = "Soldier_ L Hand"
+		lod_level = 5
+	}
+	{
+		_id = "7555c850-6771-495f-bd4b-afaa82153f03"
+		_name = "Soldier_ R Hand"
+		lod_level = 5
+	}
+	{
+		_id = "a6f803ed-2dc8-4582-a503-5494717af25b"
+		_name = "Soldier_ L Finger0"
+		lod_level = 5
+	}
+	{
+		_id = "dc4ce2a4-1e79-46fd-afbd-b7e8f8740759"
+		_name = "Soldier_ LDigit20"
+		lod_level = 5
+	}
+	{
+		_id = "6fa5d1be-2e08-4cef-9542-68f1e681ed00"
+		_name = "Soldier_ LDigit30"
+		lod_level = 5
+	}
+	{
+		_id = "edaadf4d-b8b1-40a9-853f-0a6196a50293"
+		_name = "Soldier_ LDigit40"
+		lod_level = 5
+	}
+	{
+		_id = "fc9751b0-3edc-4a1e-af1d-a2e213652e88"
+		_name = "Soldier_ LDigit50"
+		lod_level = 5
+	}
+	{
+		_id = "ff756c87-fc49-481e-92ae-730c24d8bbb0"
+		_name = "Soldier_ R Finger0"
+		lod_level = 5
+	}
+	{
+		_id = "40c4e62a-ec84-41dc-a0d7-9e2b1097b902"
+		_name = "Soldier_ RDigit20"
+		lod_level = 5
+	}
+	{
+		_id = "f28cf359-e27d-492a-93c7-8eb66a3231db"
+		_name = "Soldier_ RDigit30"
+		lod_level = 5
+	}
+	{
+		_id = "1ea7d029-e86c-4576-b915-95c8f27a2059"
+		_name = "Soldier_ RDigit40"
+		lod_level = 5
+	}
+	{
+		_id = "4efc562b-e2ea-4894-b5b8-6272ca14bbf3"
+		_name = "Soldier_ RDigit50"
+		lod_level = 5
+	}
+	{
+		_id = "3e1fa132-0c8e-4abf-95a8-6acf3a72cf76"
+		_name = "Soldier_ L Finger2"
+		lod_level = 5
+	}
+	{
+		_id = "019ab280-c909-4408-8e26-770badd2bc38"
+		_name = "Soldier_ LDigit22"
+		lod_level = 5
+	}
+	{
+		_id = "5d0066b6-cdcf-412b-9c6b-3ff098755614"
+		_name = "Soldier_ LDigit32"
+		lod_level = 5
+	}
+	{
+		_id = "b84494af-2ec7-4bfb-be4d-b06e4390b50c"
+		_name = "Soldier_ LDigit42"
+		lod_level = 5
+	}
+	{
+		_id = "08a21766-fe44-4d3d-b28f-17366e830e0f"
+		_name = "Soldier_ LDigit52"
+		lod_level = 5
+	}
+	{
+		_id = "bece8efd-89b5-4b22-b2ef-656a454224c6"
+		_name = "Soldier_ R Finger2"
+		lod_level = 5
+	}
+	{
+		_id = "82b74218-bcac-4472-9f68-22aeba967f8e"
+		_name = "Soldier_ RDigit22"
+		lod_level = 5
+	}
+	{
+		_id = "bfd880e2-428c-43ca-85ed-4caac06127b3"
+		_name = "Soldier_ RDigit32"
+		lod_level = 5
+	}
+	{
+		_id = "d68ffde1-26e9-428e-83e0-981bcdc9a288"
+		_name = "Soldier_ RDigit42"
+		lod_level = 5
+	}
+	{
+		_id = "1ddb1036-07d5-4046-9ebc-b5f6cc49b396"
+		_name = "Soldier_ RDigit52"
+		lod_level = 5
+	}
+	{
+		_id = "d6426fcc-f760-449e-8184-c9dce7d29406"
+		_name = "Soldier_ L Finger3"
+		lod_level = 5
+	}
+	{
+		_id = "30c24947-9359-41a7-8488-18656068cb1b"
+		_name = "Soldier_ LDigit23"
+		lod_level = 5
+	}
+	{
+		_id = "aed17dc8-8882-4da0-8183-4d1f177a4403"
+		_name = "Soldier_ LDigit33"
+		lod_level = 5
+	}
+	{
+		_id = "15b12128-9b65-48ec-94ea-26f0c70a83ad"
+		_name = "Soldier_ LDigit43"
+		lod_level = 5
+	}
+	{
+		_id = "6b6f27eb-4e9e-4984-9d91-2ea017cf04fb"
+		_name = "Soldier_ LDigit53"
+		lod_level = 5
+	}
+	{
+		_id = "464f78c2-eaaa-4a55-8458-1cbe6384e7b8"
+		_name = "Soldier_ R Finger3"
+		lod_level = 5
+	}
+	{
+		_id = "70429a06-9ffa-4561-a036-834e47f88370"
+		_name = "Soldier_ RDigit23"
+		lod_level = 5
+	}
+	{
+		_id = "233d15da-b831-4f8f-b4d7-94246726fbe2"
+		_name = "Soldier_ RDigit33"
+		lod_level = 5
+	}
+	{
+		_id = "c9b829a1-e7d8-4870-9240-2d3bcec261b7"
+		_name = "Soldier_ RDigit43"
+		lod_level = 5
+	}
+	{
+		_id = "ab29bb70-ecd9-45d1-b4d5-9e959d6aed2e"
+		_name = "Soldier_ RDigit53"
+		lod_level = 5
+	}
+]
+dcc_asset_ref = {
+	_id = "80e9c506-c53b-4099-858f-30f06e537f72"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.dcc_asset"
+	ref_id = null
+}
+default_bonelod_and_maxlod_count = 5
+locomotion_root_bone_ref = {
+	_id = "2db3c9f3-4575-4a92-895b-a59563e1315f"
+	ref_filename = null
+	ref_id = null
+}

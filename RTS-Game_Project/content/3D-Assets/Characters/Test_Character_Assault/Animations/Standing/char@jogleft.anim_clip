@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "be66adf3-273e-47e7-96f5-982262d33133"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Standing/char@jogleft"
+anim_skeleton_ref = {
+	_id = "a3dbb6b8-a569-4883-8a02-ea65e84bc070"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "3012303a-d56d-4590-a8c4-6fca694f2f4d"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "2dd6cc36-446e-4823-a08c-eff9940adabf"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "6c609742-f813-44fb-b4fe-e1e1152be6f0"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/char@jogleft.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "ebe333d1-e713-4da7-b3c5-2ccf3379ece9"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false

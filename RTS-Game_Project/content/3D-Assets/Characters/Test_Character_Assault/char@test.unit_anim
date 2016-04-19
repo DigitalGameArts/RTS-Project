@@ -1,0 +1,20 @@
+
+_data_root_version = 1
+_id = "fd34dfb7-fef5-43aa-94e1-9c846259f77b"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/char@test"
+anim_controller_ref = {
+	_id = "0bc0615e-c875-4599-a4ac-6be3c9d5dce6"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/charTest_AnimController.anim_controller"
+	ref_id = null
+}
+anim_skeleton_ref = {
+	_id = "a0337611-c397-42dd-9e96-4e2bfe15bcb2"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+dcc_asset_ref = {
+	_id = "f7b40b1a-1387-4d06-986b-316711e1c747"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.dcc_asset"
+	ref_id = null
+}
+old_unit_name = "content/3D-Assets/Characters/Test_Character_Assault/char@test"

@@ -1,0 +1,43 @@
+
+_data_root_version = 2
+_id = "f8abad88-c9e4-4818-869d-ff9b4cc8ebbf"
+_name = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Cover/char@CoverTopAimV2"
+anim_skeleton_ref = {
+	_id = "31c73697-4168-42b3-a757-a3f7e80d0835"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/char@test.anim_skeleton"
+	ref_id = null
+}
+autostep = {
+	_id = "68839e66-c50a-437c-a668-ddd451e69307"
+	autostep = false
+	rotation = 0.174532925199433
+	translation = 1
+}
+base_offset_preview_animation_clip_ref = {
+	_id = "d8d9d7a6-014e-4aa6-b2d6-414b0a322838"
+	ref_filename = null
+	ref_id = null
+}
+beats = [
+]
+custom_compression_settings = [
+]
+dcc_asset_ref = {
+	_id = "01ff740b-300b-4ed1-a81a-4679f127e59a"
+	ref_filename = "content/3D-Assets/Characters/Test_Character_Assault/Animations/Cover/char@CoverTopAimV2.dcc_asset"
+	ref_id = null
+}
+flow_events = [
+]
+global_compression_settings = {
+	_id = "af608df2-14d0-4aa1-9d80-77aee73a8224"
+	do_pack_positions = true
+	do_pack_rotations = true
+	do_pack_scales = true
+	position_tolerance = 0.001
+	rotation_tolerance = 0.001
+	scale_tolerance = 0.001
+}
+offset_animation = false
+take_name = "Take 001"
+use_skeleton_base_pose = false
